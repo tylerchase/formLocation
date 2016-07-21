@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "formLocation",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
